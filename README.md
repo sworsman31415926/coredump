@@ -1,0 +1,2 @@
+# coredump
+coredump example
